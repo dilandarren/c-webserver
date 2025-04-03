@@ -7,6 +7,8 @@
     
     # Handlebars 
     npm install hbs
+
+    npm i dotenv
 ```
 
 ## Express
