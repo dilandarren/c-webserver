@@ -4,6 +4,9 @@
 ## Instalation
 ```sh
     npm init -y
+    
+    # Handlebars 
+    npm install hbs
 ```
 
 ## Express
